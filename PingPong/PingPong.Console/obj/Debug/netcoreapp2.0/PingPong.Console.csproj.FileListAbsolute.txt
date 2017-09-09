@@ -1,0 +1,3 @@
+C:\Users\Sean\Repositories\corefx-23906-issuerepro\PingPong\PingPong.Console\obj\Debug\netcoreapp2.0\PingPong.Console.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Repositories\corefx-23906-issuerepro\PingPong\PingPong.Console\obj\Debug\netcoreapp2.0\PingPong.Console.AssemblyInfoInputs.cache
+C:\Users\Sean\Repositories\corefx-23906-issuerepro\PingPong\PingPong.Console\obj\Debug\netcoreapp2.0\PingPong.Console.AssemblyInfo.cs
